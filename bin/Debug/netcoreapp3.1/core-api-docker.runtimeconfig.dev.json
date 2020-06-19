@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jigar.kapadia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jigar.kapadia\\.nuget\\packages"
+    ]
+  }
+}
